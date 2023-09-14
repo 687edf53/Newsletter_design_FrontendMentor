@@ -88,7 +88,7 @@ body {
 .container .content .form input[type='text'] {
   padding-left: 20px;
   font-size: 20px;
-  border: 1px solid black;
+  border: 1px solid #ccc;
   font-family: 'Roboto' !important;
   font-weight: 600;
 }
