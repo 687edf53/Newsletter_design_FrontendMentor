@@ -130,7 +130,7 @@ body {
 }
 
 /* Responsive */
-@media (width < 375px) {
+@media (width < 991px) {
   .container {
     flex-direction: column;
     width: 100%;
