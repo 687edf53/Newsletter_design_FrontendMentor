@@ -283,7 +283,7 @@ body {
 }
 
 /* for Responsive */
-@media (width < 375px) {
+@media (width < 991px) {
   .attribution {
     bottom: -40px;
     color: black;
